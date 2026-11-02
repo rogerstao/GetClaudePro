@@ -205,19 +205,17 @@ Yes. The subscription is tied to the account; logging in to the same Claude acco
 
 Yes, at no extra cost. Claude Code is included in the Pro subscription: download Claude Code or the Claude desktop app and log in to the same Claude account. Usage limits follow your subscription tier.
 
-### Q10: How do I choose between Pro, Max 5x, and Max 20x?
+### Q10: How do I choose between Pro, Max 5x, and Max 20x, and how is Max activated?
 
 Max 5x and Max 20x give 5× and 20× the usage of Pro. For everyday writing and occasional Claude Code, choose Pro; for running Claude Code or agents for long hours every day, choose Max 5x; for round-the-clock heavy development that often hits usage limits, choose Max 20x.
 
-### Q11: How is Max activated?
+**How Max is activated:** Max 5x / 20x is delivered manually by support: after payment, click "联系客服" (Contact support) on the order page and send your order number; support will verify and activate it. The account must be Free (no active Pro / Max membership) and must have passed KYC identity verification.
 
-Max 5x / 20x is delivered manually by support: after payment, click "联系客服" (Contact support) on the order page and send your order number; support will verify and activate it. The account must be Free (no active Pro / Max membership) and must have passed KYC identity verification.
-
-### Q12: Where can I check my order?
+### Q11: Where can I check my order?
 
 After payment, the order page link is sent to the email you ordered with; you can also enter your order number or order email on the [order lookup](https://oksub.net/orders) page.
 
-### Q13: Can I get an invoice?
+### Q12: Can I get an invoice?
 
 Yes. We can issue official invoices (blue-ink fapiao) and have already issued them for several customers. After payment, contact support (WeChat **gracereview618** / Telegram **@aispace_kefu**) with your order number and invoice details (title, tax ID, etc.).
 
