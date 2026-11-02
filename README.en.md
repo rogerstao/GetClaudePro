@@ -251,7 +251,6 @@ On your first run, don't rush — above all, carefully confirm that the **Organi
 
 ### 🚀 Related Links
 
-- Claude Pro order + self-service top-up (all-in-one): https://oksub.net/claude
-- Order lookup: https://oksub.net/orders
+👉 [https://oksub.net](https://oksub.net)
 
 If this guide helped, **Star ⭐ / bookmark** it and come straight back when you renew.
