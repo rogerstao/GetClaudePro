@@ -42,21 +42,9 @@ No international credit card needed. Open **[oksub.net](https://oksub.net/claude
 
 ---
 
-## 1. 🌍 Intro: Why do users without an international card get stuck on Claude Pro?
+## 1. 👥 Who is this Claude Pro top-up method for?
 
-Claude is strong at coding, long-document analysis, writing, and research, and Pro gives you far more usage and features than the free plan. But for many users the real hurdle isn't *using* Claude — it's **completing the Pro subscription**.
-
-Common problems:
-
-- No usable international credit card;
-- Payments on the official page often fail or get blocked by risk control;
-- Unfamiliarity with overseas subscription and billing flows.
-
-The flow below uses **oksub.net's all-in-one ordering + self-service top-up** to complete the upgrade. You only provide your account's **Organization ID** — no password — and a desktop browser is recommended throughout.
-
----
-
-## 2. 👥 Who is this Claude Pro top-up method for?
+No international credit card and payments rejected by risk control are the most common blockers when subscribing to Claude Pro. This method only needs your Organization ID — no password.
 
 ### ✅ You already have your own Claude account
 
@@ -64,7 +52,7 @@ No need to buy a pre-made account — upgrade your own account to Pro directly, 
 
 If you don't have a Claude Free account yet, you can buy one at the store:
 
-👉 https://store.ai-headshot.net/item/7
+👉 [Buy a plain Claude Free account](https://store.ai-headshot.net/item/7)
 
 ### ✅ You don't have a convenient international credit card
 
@@ -80,7 +68,7 @@ If you're new to this, just follow the screenshots step by step below.
 
 ---
 
-## 3. 🧰 What do you need to top up Claude Pro?
+## 2. 🧰 What do you need to top up Claude Pro?
 
 ### ① An email you use regularly + WeChat Pay / USDT
 
@@ -94,7 +82,7 @@ Before topping up, make sure you can log in to **the exact Claude account you in
 
 If you don't have a Claude Free account yet, you can buy one at the store:
 
-👉 https://store.ai-headshot.net/item/7
+👉 [Buy a plain Claude Free account](https://store.ai-headshot.net/item/7)
 
 ### ③ Be ready to refresh and confirm the result
 
@@ -108,7 +96,7 @@ After topping up, you'll need to go back to Claude and refresh — logging in ag
 
 ---
 
-## 4. 🖼️ Claude Pro Top-Up Picture Steps (5 steps)
+## 3. 🖼️ Claude Pro Top-Up Picture Steps (5 steps)
 
 Here's the formal flow. After watching the video above, follow the picture steps below one by one.
 
@@ -201,7 +189,7 @@ That completes the whole Claude Pro self-service top-up flow. 🎊
 
 ---
 
-## 5. ❓ Claude Pro Top-Up FAQ
+## 4. ❓ Claude Pro Top-Up FAQ
 
 ### Q1: Is this top-up method under warranty?
 
@@ -263,7 +251,7 @@ Yes. We can issue official invoices (blue-ink fapiao) and have already issued th
 
 ---
 
-## 6. 💬 Contact Support
+## 5. 💬 Contact Support
 
 If you still run into issues with payment, the Organization ID, or the top-up result after following the steps above, contact after-sales support for help (please include your order number).
 
