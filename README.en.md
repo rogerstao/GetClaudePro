@@ -26,8 +26,7 @@ https://github.com/user-attachments/assets/3ea58cb9-f0cb-459a-aff9-b6bb22c8eaaa
 | Top-up method | Order and pay on oksub.net (WeChat Pay / USDT) + Organization ID self-service top-up, upgrading your own account to Pro |
 | Account requirement | The account must currently be Free (no active Pro / Max membership); stacking on an existing plan is not supported |
 | What you provide | Only your account's Organization ID — no password, no email verification code |
-| Chat history | Chat history and Projects are fully kept (you're upgrading your own account) |
-| No Claude account yet | You can buy a Claude Free account at the store, then top up |
+| No Claude account yet | You can [buy a Claude Free account](https://store.ai-headshot.net/item/7) at the store, then top up |
 | Where it works | Pro works on web, desktop, and mobile apps, and with Claude Code |
 | Time needed | ~30 seconds to watch the video; 5 steps in practice |
 | Warranty | 30-day subscription warranty; contact support if the subscription drops. Account bans are not covered |

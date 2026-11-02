@@ -34,8 +34,7 @@ https://github.com/user-attachments/assets/4e6b8e72-0614-4ca0-b24f-2ccca6df5373
 | 充值方式 | 在 oksub.net 下单付款（微信 / USDT）+ Organization ID 自助充值，给自己的账号升级 Pro |
 | 账号要求 | 账号当前须为 Free（没有生效中的 Pro / Max 会员），不支持覆盖充值 |
 | 需要提供什么 | 只需账号的 Organization ID，不需要密码或邮箱验证码 |
-| 聊天记录 | 聊天记录、Projects 全部保留（升级的是你自己的账号） |
-| 没有 Claude 账号 | 可以在发卡网购买 Claude Free 账号后再充值 |
+| 没有 Claude 账号 | 可以在发卡网[购买 Claude Free 账号](https://store.ai-headshot.net/item/7)后再充值 |
 | 使用范围 | 网页端、桌面端、手机 App 都能用 Pro，也支持 Claude Code |
 | 操作时长 | 视频约 30 秒看完全流程，实际操作共 5 步 |
 | 质保 | 30 天订阅质保，中途掉订阅可联系客服处理；账号被封禁不在质保范围内 |
