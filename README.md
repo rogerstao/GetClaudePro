@@ -4,7 +4,7 @@
 
 > 面向国内 / 中文用户的 **Claude Pro 充值教程**：无需国际信用卡，在一站式充值网站 **[oksub.net](https://oksub.net/claude)** 用微信 / USDT 付款后**自助充值**，给自己的 Claude 账号**升级 Pro 订阅**。本文整理了从下单付款、复制 Organization ID、提交充值到确认 Pro 状态的完整 **图文 + 视频** 流程，新手可对照操作。只需复制自己账号的 **Organization ID**，无需密码，聊天记录保留，订阅质保 30 天（封号不保）。
 >
-> 📅 最后更新：2026 年 10 月
+> 📅 最后更新：2026 年 11 月
 
 ## 🎬 视频教程（约 30 秒全流程演示）
 
@@ -24,21 +24,13 @@ https://github.com/user-attachments/assets/4e6b8e72-0614-4ca0-b24f-2ccca6df5373
 
 ---
 
-## 🔗 快速入口
-
-> ### ‼️ 建议通过 📮 接码链接 接收 登陆Claude账号验证码，降低封号风险！！ ‼️
->
-> **自带接码链接的 Claude 普号，请到[发卡网（store.ai-headshot.net/item/9）](https://store.ai-headshot.net/item/9)购买。**
-> 
-> 更详细的防封号技巧请参考 [Claude 防封号指南](https://github.com/sunreview/anti-claude) 
-
----
-
 ## 📋 关键信息一览
 
 | 项目 | 说明 |
 | --- | --- |
 | 适用人群 | 已有自己的 Claude 账号、没有国际信用卡的国内 / 中文用户 |
+| 价格 | **Pro ¥159/月**（官方 $20）· **Max 5x ¥849/月**（官方 $100）· **Max 20x ¥1799/月**（官方 $200），以 [oksub.net](https://oksub.net/claude) 实时价格为准 |
+| 开通方式 | Pro 付款后自助充值，几分钟到账；Max 5x / 20x 付款后由客服开通 |
 | 充值方式 | 在 oksub.net 下单付款（微信 / USDT）+ Organization ID 自助充值，给自己的账号升级 Pro |
 | 账号要求 | 账号当前须为 Free（没有生效中的 Pro / Max 会员），不支持覆盖充值 |
 | 需要提供什么 | 只需账号的 Organization ID，不需要密码或邮箱验证码 |
@@ -47,7 +39,11 @@ https://github.com/user-attachments/assets/4e6b8e72-0614-4ca0-b24f-2ccca6df5373
 | 使用范围 | 网页端、桌面端、手机 App 都能用 Pro，也支持 Claude Code |
 | 操作时长 | 视频约 30 秒看完全流程，实际操作共 5 步 |
 | 质保 | 30 天订阅质保，中途掉订阅可联系客服处理；账号被封禁不在质保范围内 |
+| 发票 | 支持开具蓝字发票，付款后联系客服提供开票信息即可 |
+| 服务记录 | 已服务 300+ 单 |
 | 客服 | 微信 `gracereview618`，Telegram `@aispace_kefu`，邮箱 1402709211@qq.com |
+
+<p align="center"><img src="./oksub-sold-302.png" alt="Claude Pro 自助充值已售 302 单" width="260"><br><sub>Claude Pro 自助充值：已售 300+ 单</sub></p>
 
 ## 📌 一句话回答：国内怎么订阅 Claude Pro？
 
@@ -114,14 +110,17 @@ Claude 在写代码、长文档分析、写作和研究上都很强，Pro 版的
 
 充值完成后，需要回到 Claude 页面刷新，必要时重新登录一次，才能确认订阅状态已经更新。
 
+### ④ 降低封号风险（强烈建议）
+
+> ‼️ 建议通过 📮 接码链接 接收 登陆Claude账号验证码，降低封号风险！！ ‼️
+>
+> 更详细的防封号技巧请参考 [Claude 防封号指南](https://github.com/sunreview/anti-claude)
+
 ---
 
 ## 4. 🖼️ Claude Pro 订阅（充值）图文步骤（共 5 步）
 
-下面进入正式充值流程。看完上方视频后，如需逐项核对细节，展开下面的完整图文步骤对照操作即可。
-
-<details>
-<summary>📖 点击展开完整图文步骤（共 5 步）</summary>
+下面进入正式充值流程。看完上方视频后，对照下面的图文步骤逐项操作即可。
 
 ### 第 1 步：登录你要充值的 Claude 账号 👤
 
@@ -210,8 +209,6 @@ Claude 在写代码、长文档分析、写作和研究上都很强，Pro 版的
 
 到这里，整个 Claude Pro 自助充值流程就完成了。🎊
 
-</details>
-
 ---
 
 ## 5. ❓ Claude Pro 订阅 / 充值常见问题 FAQ
@@ -269,6 +266,10 @@ Max 5x / 20x 由客服人工交付：付款后在订单页点「联系客服」�
 ### Q12：下单后在哪里查订单？
 
 付款成功后订单页链接会发到你的下单邮箱；也可以在 [订单查询](https://oksub.net/orders) 页面输入订单号或下单邮箱查询。
+
+### Q13：可以开发票吗？
+
+可以，支持开具**蓝字发票**，已为多位用户开具。需要的话，付款后联系客服（微信 **gracereview618** / Telegram **@aispace_kefu**），提供订单号和开票信息（抬头、税号等）即可。
 
 ---
 
