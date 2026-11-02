@@ -50,40 +50,15 @@ https://github.com/user-attachments/assets/4e6b8e72-0614-4ca0-b24f-2ccca6df5373
 
 ---
 
-## 1. 👥 这套 Claude Pro 订阅方式适合谁？
+## 1. 🧰 订阅 Claude Pro 需要准备什么？
 
 没有国际信用卡、官方支付被风控拒绝，是国内订阅 Claude Pro 最常见的卡点。下面这套方式只需提供 Organization ID，不需要密码。
-
-### ✅ 已经有自己的 Claude 账号
-
-不需要购买“成品号”，直接给自己的账号升级 Pro，聊天记录、Projects 和日常使用都继续保留在自己的账号里。
-
-如果没有自己的 Claude Free 账号，也可以在发卡网购买：
-
-👉 [购买 Claude Free 普号](https://store.ai-headshot.net/item/7)
-
-### ✅ 没有方便的国际信用卡
-
-如果你无法直接在 Claude 官方页面完成银行卡支付，可以在 oksub.net 用微信或 USDT 付款后自助充值。
-
-
-### ✅ 第一次充值，希望有图文教程可以对照
-
-整个过程可以概括为：
-
-**登录 Claude → oksub.net 下单付款 → 复制 Organization ID → 订单页预检并充值 → 刷新 Billing 查看 Pro**
-
-不熟悉流程也没关系，下面按截图一步一步操作即可。
-
----
-
-## 2. 🧰 订阅 Claude Pro 需要准备什么？
 
 ### ① 一个常用邮箱 + 微信 / USDT 付款方式
 
 在 oksub.net 下单时需要填写邮箱，付款成功后订单页链接会发到这个邮箱，方便随时回来继续充值或查单。付款支持微信支付和 USDT（BEP20 / Polygon），无需登录：
 
-👉 https://oksub.net/claude
+👉 [前往 oksub.net 下单 Claude Pro](https://oksub.net/claude)
 
 ### ② 一个可以正常登录的 Claude 账号
 
@@ -93,11 +68,7 @@ https://github.com/user-attachments/assets/4e6b8e72-0614-4ca0-b24f-2ccca6df5373
 
 👉 [购买 Claude Free 普号](https://store.ai-headshot.net/item/7)
 
-### ③ 准备好刷新确认结果
-
-充值完成后，需要回到 Claude 页面刷新，必要时重新登录一次，才能确认订阅状态已经更新。
-
-### ④ 降低封号风险（强烈建议）
+### ③ 降低封号风险（强烈建议）
 
 > ‼️ 建议通过 📮 接码链接 接收 登陆Claude账号验证码，降低封号风险！！ ‼️
 >
@@ -105,7 +76,7 @@ https://github.com/user-attachments/assets/4e6b8e72-0614-4ca0-b24f-2ccca6df5373
 
 ---
 
-## 3. 🖼️ Claude Pro 订阅（充值）图文步骤（共 5 步）
+## 2. 🖼️ Claude Pro 订阅（充值）图文步骤（共 5 步）
 
 下面进入正式充值流程。看完上方视频后，对照下面的图文步骤逐项操作即可。
 
@@ -125,7 +96,7 @@ https://github.com/user-attachments/assets/4e6b8e72-0614-4ca0-b24f-2ccca6df5373
 
 打开 oksub.net 的 Claude 充值页面：
 
-👉 https://oksub.net/claude
+👉 [前往 oksub.net 下单 Claude Pro](https://oksub.net/claude)
 
 在套餐区选择 **Claude Pro**，点击 **「立即开通」**，阅读风险提示后点击 **「我已知悉并继续」**。
 
@@ -198,7 +169,7 @@ https://github.com/user-attachments/assets/4e6b8e72-0614-4ca0-b24f-2ccca6df5373
 
 ---
 
-## 4. ❓ Claude Pro 订阅 / 充值常见问题 FAQ
+## 3. ❓ Claude Pro 订阅 / 充值常见问题 FAQ
 
 ### Q1：这种充值方式质保吗？
 
@@ -260,7 +231,7 @@ Max 5x / 20x 由客服人工交付：付款后在订单页点「联系客服」�
 
 ---
 
-## 5. 💬 联系客服
+## 4. 💬 联系客服
 
 如果你按照上面的步骤操作后，仍然遇到付款、Organization ID、充值结果等问题，可以联系售后协助处理（请附上订单号）。
 

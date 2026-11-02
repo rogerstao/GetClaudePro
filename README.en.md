@@ -42,39 +42,15 @@ No international credit card needed. Open **[oksub.net](https://oksub.net/claude
 
 ---
 
-## 1. 👥 Who is this Claude Pro top-up method for?
+## 1. 🧰 What do you need to top up Claude Pro?
 
 No international credit card and payments rejected by risk control are the most common blockers when subscribing to Claude Pro. This method only needs your Organization ID — no password.
-
-### ✅ You already have your own Claude account
-
-No need to buy a pre-made account — upgrade your own account to Pro directly, and your chat history, Projects, and daily usage stay in your own account.
-
-If you don't have a Claude Free account yet, you can buy one at the store:
-
-👉 [Buy a plain Claude Free account](https://store.ai-headshot.net/item/7)
-
-### ✅ You don't have a convenient international credit card
-
-If you can't complete a card payment on Claude's official page, you can pay with WeChat Pay or USDT on oksub.net and then top up yourself.
-
-### ✅ It's your first time and you want a picture guide to follow
-
-The whole process boils down to:
-
-**Log in to Claude → Order and pay on oksub.net → Copy Organization ID → Pre-check and top up on the order page → Refresh Billing to see Pro**
-
-If you're new to this, just follow the screenshots step by step below.
-
----
-
-## 2. 🧰 What do you need to top up Claude Pro?
 
 ### ① An email you use regularly + WeChat Pay / USDT
 
 You'll enter an email when ordering on oksub.net; after payment, the order page link is sent to that email so you can come back any time to continue the top-up or check the order. Payment supports WeChat Pay and USDT (BEP20 / Polygon), no login needed:
 
-👉 https://oksub.net/claude
+👉 [Order Claude Pro on oksub.net](https://oksub.net/claude)
 
 ### ② A Claude account you can log in to
 
@@ -84,11 +60,7 @@ If you don't have a Claude Free account yet, you can buy one at the store:
 
 👉 [Buy a plain Claude Free account](https://store.ai-headshot.net/item/7)
 
-### ③ Be ready to refresh and confirm the result
-
-After topping up, you'll need to go back to Claude and refresh — logging in again if necessary — to confirm the subscription status has updated.
-
-### ④ Lower your ban risk (strongly recommended)
+### ③ Lower your ban risk (strongly recommended)
 
 > ‼️ Tip: receive your Claude login verification code through a 📮 code-receiving link to lower the ban risk! ‼️
 >
@@ -96,7 +68,7 @@ After topping up, you'll need to go back to Claude and refresh — logging in ag
 
 ---
 
-## 3. 🖼️ Claude Pro Top-Up Picture Steps (5 steps)
+## 2. 🖼️ Claude Pro Top-Up Picture Steps (5 steps)
 
 Here's the formal flow. After watching the video above, follow the picture steps below one by one.
 
@@ -116,7 +88,7 @@ After logging in, you'll see **Free** next to your account name in the bottom-le
 
 Open the Claude top-up page on oksub.net:
 
-👉 https://oksub.net/claude
+👉 [Order Claude Pro on oksub.net](https://oksub.net/claude)
 
 In the pricing section, choose **Claude Pro** and click **"立即开通" (Subscribe now)**. Read the risk notice, then click **"我已知悉并继续" (I understand, continue)**.
 
@@ -189,7 +161,7 @@ That completes the whole Claude Pro self-service top-up flow. 🎊
 
 ---
 
-## 4. ❓ Claude Pro Top-Up FAQ
+## 3. ❓ Claude Pro Top-Up FAQ
 
 ### Q1: Is this top-up method under warranty?
 
@@ -251,7 +223,7 @@ Yes. We can issue official invoices (blue-ink fapiao) and have already issued th
 
 ---
 
-## 5. 💬 Contact Support
+## 4. 💬 Contact Support
 
 If you still run into issues with payment, the Organization ID, or the top-up result after following the steps above, contact after-sales support for help (please include your order number).
 
