@@ -32,7 +32,7 @@ https://github.com/user-attachments/assets/3ea58cb9-f0cb-459a-aff9-b6bb22c8eaaa
 | Гарантия | Гарантия на подписку 30 дней; если подписка слетит — напишите в поддержку. Блокировка аккаунта в гарантию не входит |
 | Счёт / фапяо | Выставляем официальные счета (фапяо) — после оплаты напишите в поддержку и укажите реквизиты |
 | Опыт | Выполнено 300+ заказов |
-| Поддержка | WeChat `gracereview618`, Telegram `@aispace_kefu`, эл. почта 1402709211@qq.com |
+| Поддержка | WeChat `gracereview618`, Telegram `@aispace_kefu`, эл. почта support@oksub.net |
 
 <p align="center"><img src="./oksub-sold-302.png" alt="Самопополнение Claude Pro: продано 302" width="260"><br><sub>Самопополнение Claude Pro: продано 300+</sub></p>
 
@@ -237,7 +237,7 @@ Max 5x и Max 20x дают соответственно в 5 и 20 раз бол
 
 **Telegram: [@aispace_kefu](https://t.me/aispace_kefu)**
 
-Также можно открыть Issue в этом проекте или написать на 1402709211@qq.com.
+Также можно открыть Issue в этом проекте или написать на support@oksub.net.
 
 ---
 

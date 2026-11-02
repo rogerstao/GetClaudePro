@@ -40,7 +40,7 @@ https://github.com/user-attachments/assets/4e6b8e72-0614-4ca0-b24f-2ccca6df5373
 | 质保 | 30 天订阅质保，中途掉订阅可联系客服处理；账号被封禁不在质保范围内 |
 | 发票 | 支持开具蓝字发票，付款后联系客服提供开票信息即可 |
 | 服务记录 | 已服务 300+ 单 |
-| 客服 | 微信 `gracereview618`，Telegram `@aispace_kefu`，邮箱 1402709211@qq.com |
+| 客服 | 微信 `gracereview618`，Telegram `@aispace_kefu`，邮箱 support@oksub.net |
 
 <p align="center"><img src="./oksub-sold-302.png" alt="Claude Pro 自助充值已售 302 单" width="260"><br><sub>Claude Pro 自助充值：已售 300+ 单</sub></p>
 
@@ -245,7 +245,7 @@ Max 5x 和 Max 20x 分别是 Pro 用量的 5 倍和 20 倍。日常写作、偶�
 
 **Telegram：[@aispace_kefu](https://t.me/aispace_kefu)**
 
-也可以在本项目留下 Issue，或发邮件到 1402709211@qq.com 。
+也可以在本项目留下 Issue，或发邮件到 support@oksub.net 。
 
 ---
 

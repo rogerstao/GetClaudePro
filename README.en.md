@@ -32,7 +32,7 @@ https://github.com/user-attachments/assets/3ea58cb9-f0cb-459a-aff9-b6bb22c8eaaa
 | Warranty | 30-day subscription warranty; contact support if the subscription drops. Account bans are not covered |
 | Invoice | Official invoices (blue-ink fapiao) available — contact support after payment with your invoice details |
 | Track record | 300+ orders served |
-| Support | WeChat `gracereview618`, Telegram `@aispace_kefu`, email 1402709211@qq.com |
+| Support | WeChat `gracereview618`, Telegram `@aispace_kefu`, email support@oksub.net |
 
 <p align="center"><img src="./oksub-sold-302.png" alt="Claude Pro self-service top-up: 302 sold" width="260"><br><sub>Claude Pro self-service top-up: 300+ sold</sub></p>
 
@@ -237,7 +237,7 @@ When adding, you can note:
 
 **Telegram: [@aispace_kefu](https://t.me/aispace_kefu)**
 
-You can also open an Issue in this project, or email 1402709211@qq.com.
+You can also open an Issue in this project, or email support@oksub.net.
 
 ---
 
