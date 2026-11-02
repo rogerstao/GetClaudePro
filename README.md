@@ -1,6 +1,6 @@
 **🌐 Language / 语言:** **简体中文** | [English](./README.en.md) | [Русский](./README.ru.md)
 
-# 🚀 2026年国内用户如何充值 / 订阅 Claude Pro 会员？保姆级视频图文教程（新手可用）
+# 🚀 2026年国内如何订阅 Claude Pro 会员？Claude 订阅 / 充值 / 代充保姆级视频图文教程（新手可用）
 
 > 面向国内 / 中文用户的 **Claude Pro 充值教程**：无需国际信用卡，在一站式充值网站 **[oksub.net](https://oksub.net/claude)** 用微信 / USDT 付款后**自助充值**，给自己的 Claude 账号**升级 Pro 订阅**。本文整理了从下单付款、复制 Organization ID、提交充值到确认 Pro 状态的完整 **图文 + 视频** 流程，新手可对照操作。只需复制自己账号的 **Organization ID**，无需密码，聊天记录保留，订阅质保 30 天（封号不保）。
 >
@@ -49,13 +49,13 @@ https://github.com/user-attachments/assets/4e6b8e72-0614-4ca0-b24f-2ccca6df5373
 | 质保 | 30 天订阅质保，中途掉订阅可联系客服处理；账号被封禁不在质保范围内 |
 | 客服 | 微信 `gracereview618`，Telegram `@aispace_kefu`，邮箱 1402709211@qq.com |
 
-## 📌 一句话回答：国内怎么充值 Claude Pro？
+## 📌 一句话回答：国内怎么订阅 Claude Pro？
 
 不需要国际信用卡。打开 **[oksub.net](https://oksub.net/claude)** 选择 **Claude Pro**，填写邮箱并用微信或 USDT 付款，付款后自动进入订单页；再到 Claude 的 **Settings → Account** 页面复制自己账号的 **Organization ID**，粘贴到订单页预检并确认充值。刷新 **Settings → Billing**，显示 **Pro plan** 就说明升级成功。全程不需要提供密码，升级的是你自己的账号，聊天记录和 Projects 都会保留，订阅质保 30 天（封号不在质保范围内）。
 
 ---
 
-## 1. 🌍 前言：为什么国内用户充值 Claude Pro 容易卡住？
+## 1. 🌍 前言：为什么国内用户订阅 Claude Pro 容易卡住？
 
 Claude 在写代码、长文档分析、写作和研究上都很强，Pro 版的用量和功能也比免费版多很多。但对很多中文用户来说，真正麻烦的往往不是“会不会用 Claude”，而是 **怎么完成 Pro 订阅**。
 
@@ -69,7 +69,7 @@ Claude 在写代码、长文档分析、写作和研究上都很强，Pro 版的
 
 ---
 
-## 2. 👥 这套 Claude Pro 充值方式适合谁？
+## 2. 👥 这套 Claude Pro 订阅方式适合谁？
 
 ### ✅ 已经有自己的 Claude 账号
 
@@ -94,7 +94,7 @@ Claude 在写代码、长文档分析、写作和研究上都很强，Pro 版的
 
 ---
 
-## 3. 🧰 充值 Claude Pro 需要准备什么？
+## 3. 🧰 订阅 Claude Pro 需要准备什么？
 
 ### ① 一个常用邮箱 + 微信 / USDT 付款方式
 
@@ -116,7 +116,7 @@ Claude 在写代码、长文档分析、写作和研究上都很强，Pro 版的
 
 ---
 
-## 4. 🖼️ Claude Pro 充值图文步骤（共 5 步）
+## 4. 🖼️ Claude Pro 订阅（充值）图文步骤（共 5 步）
 
 下面进入正式充值流程。看完上方视频后，如需逐项核对细节，展开下面的完整图文步骤对照操作即可。
 
@@ -214,7 +214,7 @@ Claude 在写代码、长文档分析、写作和研究上都很强，Pro 版的
 
 ---
 
-## 5. ❓ Claude Pro 充值常见问题 FAQ
+## 5. ❓ Claude Pro 订阅 / 充值常见问题 FAQ
 
 ### Q1：这种充值方式质保吗？
 
