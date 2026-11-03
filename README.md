@@ -259,6 +259,6 @@ Max 5x 和 Max 20x 分别是 Pro 用量的 5 倍和 20 倍。日常写作、偶�
 
 ### 🚀 相关入口
 
-👉 [https://oksub.net](https://oksub.net)
+👉 [https://oksub.net](https://oksub.net/claude)
 
 如果这篇教程对你有帮助，可以 **Star ⭐ / 收藏**，以后续费时直接回来查看。
