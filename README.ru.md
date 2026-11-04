@@ -1,3 +1,5 @@
+<p align="center"><img src="./banner.png" alt="OKSub - Claude Pro / Max top-up" width="100%"></p>
+
 **🌐 Language / 语言:** [简体中文](./README.md) | [English](./README.en.md) | **Русский**
 
 # 🚀 Как оплатить / оформить подписку Claude Pro в 2026 году (пошаговое видео- и фото-руководство для новичков)
